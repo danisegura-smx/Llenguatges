@@ -1,10 +1,10 @@
 <html>
 	<head>
-		<title>Hola, Ramis!<title>
+		<title>Hola, Menorca!<title>
 	</head>
 	<body>
 		<%
-		response.write("Hola, Ramis!")
+		response.write("Hola, Menorca!")
 		%>
 	</body>
 </html>

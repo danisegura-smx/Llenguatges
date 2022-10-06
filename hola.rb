@@ -1,1 +1,1 @@
-ruby -e 'print "Hola, Ramis!\n"'
+ruby -e 'print "Hola, Menorca!\n"'
